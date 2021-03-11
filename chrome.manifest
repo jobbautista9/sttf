@@ -1,4 +1,5 @@
 content sttf       chrome/content/
 locale  sttf en-US chrome/locale/en-US/
+locale  sttf tl chrome/locale/tl/
 skin    sttf skin  chrome/skin/
 overlay chrome://browser/content/browser.xul chrome://sttf/content/overlay.xul

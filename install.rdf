@@ -31,4 +31,14 @@
   <em:creator>RealityRipple</em:creator>
   <em:contributor>Job Bautista</em:contributor>
  </Description>
+ <em:localized>
+  <Description>
+   <em:locale>tl</em:locale>
+   <em:creator>RealityRipple</em:creator>
+   <em:name>sttf</em:name>
+   <em:description>Implementasyon ng Scroll to Text Fragment.</em:description>
+   <em:homepageURL>https://realityripple.com/Software/Mozilla-Extensions/sttf/</em:homepageURL>
+   <em:translator>Job Bautista</em:translator>
+  </Description>
+ </em:localized>
 </RDF>
